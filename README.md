@@ -1,0 +1,1 @@
+# gsm-az-redirect
